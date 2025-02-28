@@ -80,3 +80,8 @@ rentry.co##p:nth-of-type(79) > .external
 rentry.co##p:nth-of-type(82) > .external
 rentry.co##p:nth-of-type(95) > .external
 rentry.co##p:nth-of-type(32) > .external
+rentry.co##p:nth-of-type(18) > .external
+rentry.co##p:nth-of-type(19) > .external
+rentry.co##p:nth-of-type(73) > .external
+rentry.co##p:nth-of-type(70) > .external
+rentry.co##p:nth-of-type(104)
